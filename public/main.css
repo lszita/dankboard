@@ -1,0 +1,21 @@
+button {
+    width: 100%;
+    max-width: 350px;
+    border: 0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.sf {
+    background-color: rgb(66, 244, 194);
+    color: white;
+    font-weight: bold;
+}
+
+#pepe {
+    background-image: url('/assets/sadpepe.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+    background-position: bottom; 
+}
